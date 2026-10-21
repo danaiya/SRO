@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Высшая математика",
+    "teacher": "Иванов И.И.",
+    "group": "ТИИ25-21",
+    "classroom": "101",
+    "lesson_date": "2026-09-01",
+    "start_time": "09:00",
+    "end_time": "10:30"
+  },
+  {
+    "id": 2,
+    "title": "Физика",
+    "teacher": "Петров П.П.",
+    "group": "ТИИ25-21",
+    "classroom": "102",
+    "lesson_date": "2026-09-01",
+    "start_time": "10:40",
+    "end_time": "12:10"
+  },
+  {
+    "id": 3,
+    "title": "Программирование Python",
+    "teacher": "Смирнов С.С.",
+    "group": "ТИИ25-21",
+    "classroom": "Lab-3",
+    "lesson_date": "2026-09-01",
+    "start_time": "12:30",
+    "end_time": "14:00"
+  },
+  {
+    "id": 4,
+    "title": "Иностранный язык",
+    "teacher": "Ким А.В.",
+    "group": "ТИИ25-21",
+    "classroom": "205",
+    "lesson_date": "2026-09-01",
+    "start_time": "14:10",
+    "end_time": "15:40"
+  },
+  {
+    "id": 5,
+    "title": "Базы данных",
+    "teacher": "Омаров Б.К.",
+    "group": "ТИИ25-21",
+    "classroom": "Lab-1",
+    "lesson_date": "2026-09-02",
+    "start_time": "09:00",
+    "end_time": "10:30"
+  },
+  {
+    "id": 6,
+    "title": "Архитектура ЭВМ",
+    "teacher": "Иванов И.И.",
+    "group": "ТИИ25-21",
+    "classroom": "104",
+    "lesson_date": "2026-09-02",
+    "start_time": "10:40",
+    "end_time": "12:10"
+  },
+  {
+    "id": 7,
+    "title": "Веб-технологии",
+    "teacher": "Смирнов С.С.",
+    "group": "ТИИ25-21",
+    "classroom": "Lab-3",
+    "lesson_date": "2026-09-02",
+    "start_time": "12:30",
+    "end_time": "14:00"
+  },
+  {
+    "id": 8,
+    "title": "Философия",
+    "teacher": "Абдрахманова Д.С.",
+    "group": "ТИИ25-21",
+    "classroom": "302",
+    "lesson_date": "2026-09-03",
+    "start_time": "09:00",
+    "end_time": "10:30"
+  },
+  {
+    "id": 9,
+    "title": "Дискретная математика",
+    "teacher": "Иванов И.И.",
+    "group": "ТИИ25-21",
+    "classroom": "101",
+    "lesson_date": "2026-09-03",
+    "start_time": "10:40",
+    "end_time": "12:10"
+  },
+  {
+    "id": 10,
+    "title": "Физическая культура",
+    "teacher": "Тренер Т.Т.",
+    "group": "ТИИ25-21",
+    "classroom": "Спортзал",
+    "lesson_date": "2026-09-03",
+    "start_time": "12:30",
+    "end_time": "14:00"
+  },
+  {
+    "id": 11,
+    "title": "Высшая математика",
+    "teacher": "Иванов И.И.",
+    "group": "ТИИ25-22",
+    "classroom": "101",
+    "lesson_date": "2026-09-01",
+    "start_time": "10:40",
+    "end_time": "12:10"
+  },
+  {
+    "id": 12,
+    "title": "Физика",
+    "teacher": "Петров П.П.",
+    "group": "ТИИ25-22",
+    "classroom": "102",
+    "lesson_date": "2026-09-01",
+    "start_time": "09:00",
+    "end_time": "10:30"
+  },
+  {
+    "id": 13,
+    "title": "Программирование Python",
+    "teacher": "Смирнов С.С.",
+    "group": "ТИИ25-22",
+    "classroom": "Lab-3",
+    "lesson_date": "2026-09-01",
+    "start_time": "14:10",
+    "end_time": "15:40"
+  },
+  {
+    "id": 14,
+    "title": "Иностранный язык",
+    "teacher": "Ким А.В.",
+    "group": "ТИИ25-22",
+    "classroom": "205",
+    "lesson_date": "2026-09-01",
+    "start_time": "12:30",
+    "end_time": "14:00"
+  },
+  {
+    "id": 15,
+    "title": "Базы данных",
+    "teacher": "Омаров Б.К.",
+    "group": "ТИИ25-22",
+    "classroom": "Lab-1",
+    "lesson_date": "2026-09-02",
+    "start_time": "10:40",
+    "end_time": "12:10"
+  },
+  {
+    "id": 16,
+    "title": "Архитектура ЭВМ",
+    "teacher": "Иванов И.И.",
+    "group": "ТИИ25-22",
+    "classroom": "104",
+    "lesson_date": "2026-09-02",
+    "start_time": "09:00",
+    "end_time": "10:30"
+  },
+  {
+    "id": 17,
+    "title": "Веб-технологии",
+    "teacher": "Смирнов С.С.",
+    "group": "ТИИ25-22",
+    "classroom": "Lab-3",
+    "lesson_date": "2026-09-02",
+    "start_time": "12:30",
+    "end_time": "14:00"
+  },
+  {
+    "id": 18,
+    "title": "Философия",
+    "teacher": "Абдрахманова Д.С.",
+    "group": "ТИИ25-22",
+    "classroom": "302",
+    "lesson_date": "2026-09-03",
+    "start_time": "10:40",
+    "end_time": "12:10"
+  },
+  {
+    "id": 19,
+    "title": "Дискретная математика",
+    "teacher": "Иванов И.И.",
+    "group": "ТИИ25-22",
+    "classroom": "101",
+    "lesson_date": "2026-09-03",
+    "start_time": "09:00",
+    "end_time": "10:30"
+  },
+  {
+    "id": 20,
+    "title": "Физическая культура",
+    "teacher": "Тренер Т.Т.",
+    "group": "ТИИ25-22",
+    "classroom": "Спортзал",
+    "lesson_date": "2026-09-03",
+    "start_time": "14:10",
+    "end_time": "15:40"
+  }
+]
